@@ -1,10 +1,10 @@
 const colors = {
-  background: '#1F0808',
+  background: '#fff',
   clear: 'rgba(0,0,0,0)',
   facebook: '#3b5998',
   transparent: 'rgba(0,0,0,0)',
   silver: '#F7F7F7',
-  steel: '#CCCCCC',
+  steel: '#f0eff5',
   error: 'rgba(200, 0, 0, 0.8)',
   ricePaper: 'rgba(255,255,255, 0.75)',
   frost: '#D8D8D8',
@@ -21,7 +21,9 @@ const colors = {
   eggplant: '#251a34',
   border: '#483F53',
   banner: '#5F3E63',
-  text: '#E0D7E5'
+  text: '#E0D7E5',
+  white: '#fff',
+  green: '#4eb96b'
 }
 
 export default colors

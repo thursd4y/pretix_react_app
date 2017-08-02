@@ -5,9 +5,9 @@ export default StyleSheet.create({
   button: {
     height: 45,
     borderRadius: 5,
-    marginHorizontal: Metrics.section,
+    marginHorizontal: Metrics.smallMargin,
     marginVertical: Metrics.baseMargin,
-    backgroundColor: Colors.fire,
+    backgroundColor: Colors.white,
     justifyContent: 'center'
   },
   buttonText: {
